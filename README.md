@@ -1,6 +1,5 @@
-# copy-a-noob
 
 
-git clone
-cd copy-a-noob
-python Loner.py
+# git clone https://github.com/tuppy12/copy-a-noob
+# cd copy-a-noob
+# python Loner.py
